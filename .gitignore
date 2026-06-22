@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+tracemap.egg-info/
+
+# Environment
+.env
+
+# TraceMap data
+data/
+
+# IDE (keep project skills, ignore local settings)
+.cursor/settings.json
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store

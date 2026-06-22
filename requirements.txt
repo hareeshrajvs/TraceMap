@@ -1,0 +1,14 @@
+crewai>=0.80
+pdfplumber
+beautifulsoup4
+atlassian-python-api
+sqlalchemy>=2.0
+chromadb
+sentence-transformers
+pydantic-settings
+streamlit
+plotly
+jira
+python-dotenv
+pandas
+requests
